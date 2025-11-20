@@ -1,0 +1,28 @@
+// Star Revenge 6.5 Warth of the Dimensional Flower
+// layout edited by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"Main Courses","Type":2},
+		{"text":"01","starMask":255,"offset":12,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"02","starMask":255,"offset":13,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"03","starMask":255,"offset":14,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"04","starMask":255,"offset":15,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"05","starMask":255,"offset":16,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"06","starMask":255,"offset":17,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"07","starMask":255,"offset":18,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"08","starMask":255,"offset":19,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"09","starMask":255,"offset":20,"highlightStarMask":0,"highlightOffset":0,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"Bowser Courses","Type":2},
+		{"text":"B1","starMask":129,"offset":27,"highlightStarMask":80,"highlightOffset":11,"Type":1},
+		{"text":"B2","starMask":129,"offset":28,"highlightStarMask":160,"highlightOffset":11,"Type":1},
+		{"text":"Race","starMask":130,"offset":29,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"Overworld Stars","Type":2},
+		{"text":"","starMask":167,"offset":8,"highlightStarMask":0,"highlightOffset":0,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAdRQTFRFR3BMKGvvAFT8Fl78AVbYU4L5DVv1CVn2Dlr0EF7+CVn3DVz0GGT3W439EVr/Q3v+g6f+DWDzAlHYFmTiO3P+C1fzeJ//AE3OA1TWAFDjbJf/AFPTp7//Z5j/ytb/K3HgbJj/DFb/EWLpB1zvbpj/F1/2D1X/CVj/EFr8AFfZAE3/ToT/AE/QgrbSydb/AFfwu8z/dqD7AFT9cp7/d6H/AVrhp7//X5P/LHH2YI//AVL/gs0RjOcukOg2leI4tu+AqO5hitUhfcgQe8UQhNMXhtscxPKaA1L+eMIQBFjrhNAWjOErb5n+JG3udb0RmetGjN0ur+9vdL0wuvCJyfWiD1r/wfKS0/e0peddo+pSecdgja39U568lug7R0dHi9tBYad3kNowneRGDVzdfdBBoe5VoOJr1OTtl7T/QYnDfNNk0/HEXqi2vdD3RY2gZqxEcqZihclHcciJrupyp8fot+Owobz+lcHdjdllZbyTJG3J2eL/meJZcb1bVZyjyurLa8Z1PYG1NX7LsMf4OoTcfc8QVIr8eMQsZqkhZ6ITYmJiWqGRYJzJOVYVX7SlvODMsOePyNX/o92SdajZarl3oc7LjtOEZLFtq9jDK3emfqL/dLDIBmWuRgAAADt0Uk5TABata/sEXP8e/ofzR1l6dv0KRTX8KuyBsJtzYSOl2fsvkPzf9tS+UA++5BHg/Q55uMXuQYDC7h7gyvB0l3a3AAACG0lEQVQ4y62T5XvaUBSHsRJSGMXq7SrU5q4hnpCE4hK0eClOuypdXefu+2cX9mwFng0+9X593+ee8zv3XJHovM/AaHv+YOJRR1th+MdJVzuusmathu7WXPswXAobploLnSeHhW8GRtqKd49bd/38T99jRQvhnu2z389njhjJ//lgqsj7vTyWtzHyZiLW6wZ7+/tkBxnea/Zg8B5wWzKmlqv0Cm2tMaPse6VSWYzHX4aCKM+jGGyqvqk+yW9sfflo7RkQzUxyZbvdzpIElEhiKOoKwiYTPOeYd3m8C+9vCnNVGLmym7WzBIQjwYwr4KgJAjf7F55evP47nZLbP2XtJIS/jkaxxeiLJdiBoeaCwIf+DFgJHLhJloSeu5fmY+5nMQfm8RZKpftDf2NMg+DINkHaCYtzDjYhQaH87uGa5k49qBQEbZ8sLEkhNSGAmt+uZa0Xml7BB0YsLIEjsybTLLJsXglbm59d77OlIaFNZ01wJtHV7MSVJkHtK1IQBOE1TtOJgGdF01RBNGVLH0OQBY9V92iawpHl1fBwI58Bi7RwARU68gGRtIVKbKHrPY3LqbI5KYLYzgEMw3CpstuSCLzTNO73WIQ+Pt0ZB5jLnf1KTrYZxxFs/W6DMJmnvm5ygGRauFYrvyST7YeSH27VuSISynHGG2ebpui9mtrZuCY+E+Q5pUTXlKpD1zfyqh5ULRX/u4Fiadf5/OZfosWCulkdIDsAAAAASUVORK5CYII=",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGBQTFRFR3BMETVbBhE2IVt0CBg8KG2HF0RmDjFVBhc7Bx5EL36WFD5gKXCKMIKZBhE2K3eRH1RxFD9eBBY7CSpTKG2JIl14LnuTH1RyJ2eDHE5rAx9JDzNWK3OMJGN9BiNLGEdp9YX4MwAAABF0Uk5TAA1MhKI9/iJ7yMde6X3jncbzA6ffAAABJ0lEQVR42q2T266DIBBFsRUBby2goiD4/395mGnUOUn1qevN7MVshkT2c57Nfc5jW9wK7zi/bgvGOA/8OhcOhJuStxvnYVgvS5rlI0zioqDahfq7UOpdmDpGKIR4SCmV0qcw1XXXdZxDlzLGJ2tD0DpXRBQILyZ6463Nsd4W3HJd12l38DbCZCNgjkIecdDiPg9jEhh5AAiEljNGjAoq4hzng+M95G6MQMwawskTwCZ6c6Nzbtx5MkaNLCxuWeCqCM3xGinoHOO2gHOcUUpvQ1XpD9UG/J/QewtRsPimiKK5gIaQ4+QTODhHEEEaGyzExhgPTsg0RFAeUohLBQ6OKc+8MB4PK1nkOtnjmKToknhYHN8lVgnyTHiYgGPOSyh5yNQpf/M3/wFXCyTfsXJfawAAAABJRU5ErkJggg==",
+	"starAmount":"70",
+	"starsShown":7
+}

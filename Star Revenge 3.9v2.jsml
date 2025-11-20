@@ -1,0 +1,38 @@
+// Star Revenge 3.9 Dreamish Block Beats
+// layout edited by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"Waterborn Harbor","Type":2},
+		{"text":"#1","starMask":129,"offset":12,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"Shiversky Heights","Type":2},
+		{"text":"#3","starMask":129,"offset":14,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"Cliffside Grotto","Type":2},
+		{"text":"#5","starMask":129,"offset":16,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"Skyside Temple","Type":2},
+		{"text":"#7","starMask":129,"offset":18,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"Lost Desert","Type":2},
+		{"text":"E1","starMask":1,"offset":20,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"","Type":2},
+		{"text":"Overworld","Type":2},
+		{"text":"","starMask":1,"offset":8,"highlightStarMask":0,"highlightOffset":0,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"Soaksand Akvedukts","Type":2},
+		{"text":"#2","starMask":129,"offset":13,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"Mystic Jungle","Type":2},
+		{"text":"#4","starMask":129,"offset":15,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"B. Bill City","Type":2},
+		{"text":"#6","starMask":129,"offset":17,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"Nevermore Strongh.","Type":2},
+		{"text":"#8","starMask":129,"offset":19,"highlightStarMask":0,"highlightOffset":0,"Type":1},
+		{"text":"","Type":2},
+		{"text":"","Type":2},
+		{"text":"","Type":2},
+		{"text":"Difficulty Select","Type":2},
+		{"text":"","starMask":1,"offset":26,"highlightStarMask":0,"highlightOffset":0,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABSZJREFUeNrtl39MlHUcxx8tdf5Tri3LZtZWmpmgLkmOdIsJRojDMCHmUOdWJ+APlFjlT6CwZFOUMAVDIxcZdCccd8cdeCCH6MAfwAknIseOX40fkiTyy9097/p8tucZVBs/GtgffbbXnud2t71fz/v73PO9E/6ffzOexfVveB2//cFjCf/CljfV91zdLa+vq9oUuy49NeECq3OaYoNSa+AfVw23nWXnJrz6QE2dUxLw3F4BxZJC7wmrfpXJfu2vAgvXX7FPyFIoKuy7/QvqIAlsOlTBAu4BpXh23sWj4179yit3ekhgh8aKyJRKFgjYVsYC8zyKRVqKcaveo7Elx7esDiHFtyUBYojAM7PzrLQU41I9hRPK/CoWSEivwlfJlQiNKIKfnx6uC3Pw/HN6kZZiTFdIFa9zmNzc0bNOgYEwHzTH0VW/1d58xa3e3rfaUktXzwJH8i04nWsjCVlgmTsLiMSsJ9S5cyZlfbtIyI4iFgs6f28hd2m4UDBH5RU8VQ6mkGBY7IGoFyWCnA8RjEf48E/o/P32dkYS+PxSJQv8fLkBP10oxd79BdgSkiO34DpTxbw9LXMI70zSihLegq6FxARar4+cpqoIsRR7UIVDaEY8Boawr68Lka3N2GW5zURpTPg49iiMNxqg01Yj4YAB3h7hCPbMlNm0RDWE0BeyEDhdK+Mr6MvleyXj5NpZuwdSmg4hDfEw4AdcRQY6mTO/25lEWzVzpPImlodshCAIfPX2oiZERUTTa5aICVEz+9bIYM+bF1hAOcUoUvg6wdhASyEMHlr7WOfh+yRxFikOktA7rYym9ToyLZeZI79kcNjcBQs4uPHOr1g0302C20gOzyKJv4UTGwR9F90Lwj+NrizAl8J1OAuiADmoEK8xVztLcLHWgOSMU1CGbsFd2w1EH4yGo6sXqxQ+yEzS0JHDj69XExz+2Wwtdk8xESQx/HPiqng8uBqpDivSYYeB6UEl09p/HbamXJRdz2SBjo5GFrilr0B+XKEcfuo9Fb5ZnI24F3WIebKQYIH9wqUNwkimFYmRD3FGFJ3pEKFlADNL9PYXskR3ZzWHM/W9sJwqh0apl8OTZmmROL1AFtgrFMUKoxlHT/gxIBEEiZAAca8lA921JjgaaxnctJEA3Yzcgnp99hCBo4IZCZOLvhNGO2L/ZgXEPSwgNUHHzqp0EmBQVAinUQuxoIWQW9B4qYYIcPWjHSAidJAA099+kgQIDsb5NIgJp4FzZhbo/r4GJVuzuQWVSxbSppmIsTUAbMuWBAgKby1PgN0Ugy5VPNMf+wkhSbDA3YNm5AWqqAVZ4qxgrh/1voCeMAcJiH3xzD3rfg63pkegJkmJhi83om2nH+5vXI2BzTvwaPsxOA/nkwC1QBIskDXDwBL04BnV+pMAIfYe5PAa42aUpgSj+IAPc2O7wikJPAhYK0s0hqWRgNQCCTA6waAc1TfA0boBJPDAFs7hJckrYIhdDN3OJQQL1Aa5nCcavZf+dtdzLYhyv09RtCYO+pUnSEBuIX9yiXrEAujwsZAAUZ/n4ZTC1VGvihlhL93Kend5BO0f0udpezW7vh6kne+m07j4D2QvU0LnfoAldK7pyH36PMzTCttHFF7+4yuvoW25s6dmBYdfO70QxYlz24wxLyfRe8IwQ2IkqHbZWkYSmrmJJMAYZ6S6DyvQWzM/Ugq3qhbk0P4w+AcEn49wKDBvZmq0ZuaJJhKg8xEJEFyxFDj2kaVJhm/Exzgs8p/7g/sHFrwYQ6sZS7gAAAAASUVORK5CYII=",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAFdQTFRFR3BMoKCgZGRkwcHBXFxcYmJisrKyX19fs7Oz0tLSzMzMgICAXFxcnJycy8vLXFxc0NDQx8fHwcHBu7u7sbGxp6enoKCgmJiYj4+PhISEfHx8bGxsXFxcEekSJAAAABB0Uk5TABQuUVFpjpSmqru7yN/i6I5wZV0AAAEXSURBVHjarZPbEoMgDEQFxNRWa8Vy5/+/swl4Y6b1qfvm7CEbdqT5u4S49pma2SVwW9T9MuC9qFlcBIwIXIV0mibMP0O4KcDPkHEDnux7gDPvArz6ejJvJQA83AG8nve+7zohBGsgoWL0zjlbACJ29Q0b0A8ebWv0NmHeKLoQm5AggPwCqAzs2/KVKANIiBx+TSwotenoo01E0JIUskmd+pJIBGc1ATtU9QkF0NoYvWJdXVZK3hljrLOWGKREBUDewbosa0j1hCHF7PkQfGasHc8+wxXQ9THm2n2GOTnHPb0P6BbFQIysV4jFBihIjOFxAqaUNUiGcXJYmfMlURPw/RvyCX4ucmjr36wFjDtWKIdrMQn/ec0f7Qoj5jV01pcAAAAASUVORK5CYII=",
+	"starAmount":"11",
+	"starsShown":7
+}

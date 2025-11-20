@@ -1,0 +1,33 @@
+// Star Revenge 3: Mario on An Saoire
+// layout edited by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"Main Courses","Type":2},
+		{"text":"01","starMask":255,"offset":12,"Type":1},
+		{"text":"02","starMask":255,"offset":13,"Type":1},
+		{"text":"03","starMask":255,"offset":14,"Type":1},
+		{"text":"04","starMask":255,"offset":15,"Type":1},
+		{"text":"05","starMask":255,"offset":16,"Type":1},
+		{"text":"06","starMask":255,"offset":17,"Type":1},
+		{"text":"07","starMask":255,"offset":18,"Type":1},
+		{"text":"08","starMask":255,"offset":19,"Type":1},
+	],
+	"secretDescription":[
+		{"text":"Little Japan","Type":2},
+		{"text":"","starMask":1,"offset":35,"Type":1},
+		{"text":"Peach's New Castle","Type":2},
+		{"text":"","starMask":24,"offset":8,"Type":1},
+		{"text":"Majestic Mountains","Type":2},
+		{"text":"","starMask":3,"offset":30,"Type":1},
+		{"text":"A Bad Ending","Type":2},
+		{"text":"","starMask":1,"offset":34,"Type":1},
+		{"text":"Dorcha Wiggler's Destination","Type":2},
+		{"text":"","starMask":129,"offset":29,"Type":1},
+		{"text":"The Ending Isle","Type":2},
+		{"text":"","starMask":131,"offset":28,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABRBJREFUeNrll3tMlWUcx3/noEioIxJEyYaGOrxnOjU051xOQsv8R81r4sjLtJXOLuqGGW6KmdfgCIooccQLGIK2BIaAEkEgIGqw5GI6BdGVmI2dy7fzfd7OOTFdcNzEtcY+43kvz+/7+T3Pe144MvXD6fIskf+0gLl7/Lw/9NHhz0TA4nfIx+J3uIGYfBJGdLiAtWdiqmVCOgjHHSrAjhn827Jy3Jx1yYSRKeB2dIgAlx4hZ24wPGudBac/sKLpnWKg31Errz11AYTn7TStv2gu+aLZIZC38Hc8nJyttuKpCmBN4XiG1xkacW6rFp68Eg4Jbgu34qkIVH4a6mneUlbaGH8dRQdalEDkIihSwzSKp9ehZWhqgytb4dLSM7zixEMKqM7HziROieRZVlwZX2E2ByYfdklgRpfyHmSBXJmyxrM5dHXn5giSEtRwumB0bQ6f9NufVFkZTBJW1GDMGz/Dd7SJqPHHk89TwCFBcsfV5bDGl0MQQVib2POUwLhuOdHjfPNBJvUsxzTfWsztdQ/v92jB6iALol4D9r0FdsyHToUHBvbHvPnL4B7cpBgwKBxr167FjtBG3quImgRsHAvWIKzJ2sxQWSP9UjHEJ/Gs6l4CzpZJQCYUgRegC7oGfd+7dhydDnvdhOGvFiA0NBQGgwGd4oogB/PUcXV1NUZNyOY9vJdirKOQUSWsq9UPioW8vMMk/bbXy4SUPmoL1OCl7Ft2ATVh9lXI+nrIoVuQtAaijSO+5QqoUH3+eci5HB6rFej6XqRDSvZlqHtlRTIkJJE4w8n0qGD7M+CUOJJ3VxUtLoTU1rXInSZ4tLS0Ql0X0agoI2qs0+kg0Tt5zPlKTDKPQ04mQZLieE1jyxYLwx/7KZCS0hAG6xobVViA2YRgtGbMtQsqUD+5J7zuGfDcg0Tolg7ThBhYVaBoLWGEHEvQRA5+Pf9fP4ZepocL/S21lqHWSoSgCIuRoViCrxBu+5mPtzE4qxf8Szoj4IY7/H/R4YVzHui6WfB8/iBF14I5ii7Z6+B2arsDSTNuatd7oJ/1leVBFm+MR1/MRDBDHeE8x2sM7msUDNwv8EkXSvD3I3Q3anQzeh936UXUp0IOsMuB9z0oQRiujnk+LFpwcq/Ghl2aiF+cE18VrOGRJGkuvwmDDDKFHXKZGTz8Tx/V9exMQUKMIGNPa3iOUi9G2QS2CXrbznE+GWCUDS4LJMTKpphjesT/5IWEGm9sKvIEj9mxwhZyep3gOxvf7yGayJ4YrghRYzUn65TsdlkgO0aqcuPdUH7GCxczuoNjBjA4JVKQtlyQv8pJwWZBdmxrOKfIKChLkyqXBPiXjx2xAGExhtuDMxZroZdW6RVlGwWFn2lc2KXmOQQKDwlKjwvKM2RwuwXSd8sMBhJ710dWasGZS7Xw8omCa+4a1yeKtfpzAaEMV4PBhCtAAW5DuwVORMphdksYfHSBFp67SIcfp7mhur/OzOA6newn9SIP6vwFNe9qEpe3aiKlO5wCl5N1Ve0S4PIbw+Q+Q7+Z0zq8eEQnS6VOf6lWJKpGpLd9To1O1+vvcz9Qrn6VTW7bP2RsIpXb9c2s3aZA7lwZw2At3Blcqu+UdFVkZFv/YPAergq35WaEWChi5/Yu/ZttChybK2H2rvOnumWVeLvP4vknodZTQn+dI1kUadgraDJIbJsC6UskLj1MPsqZ4jb6CYMfu6q3oyT8zl7Jf0Tgf//t+C9jQGA0E3ZdLQAAAABJRU5ErkJggg==",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAFdQTFRFR3BMoKCgZGRkwcHBXFxcYmJisrKyX19fs7Oz0tLSzMzMgICAXFxcnJycy8vLXFxc0NDQx8fHwcHBu7u7sbGxp6enoKCgmJiYj4+PhISEfHx8bGxsXFxcEekSJAAAABB0Uk5TABQuUVFpjpSmqru7yN/i6I5wZV0AAAEXSURBVHjarZPbEoMgDEQFxNRWa8Vy5/+/swl4Y6b1qfvm7CEbdqT5u4S49pma2SVwW9T9MuC9qFlcBIwIXIV0mibMP0O4KcDPkHEDnux7gDPvArz6ejJvJQA83AG8nve+7zohBGsgoWL0zjlbACJ29Q0b0A8ebWv0NmHeKLoQm5AggPwCqAzs2/KVKANIiBx+TSwotenoo01E0JIUskmd+pJIBGc1ATtU9QkF0NoYvWJdXVZK3hljrLOWGKREBUDewbosa0j1hCHF7PkQfGasHc8+wxXQ9THm2n2GOTnHPb0P6BbFQIysV4jFBihIjOFxAqaUNUiGcXJYmfMlURPw/RvyCX4ucmjr36wFjDtWKIdrMQn/ec0f7Qoj5jV01pcAAAAASUVORK5CYII=",
+	"starAmount":"65",
+	"starsShown":7
+}

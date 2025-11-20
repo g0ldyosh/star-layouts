@@ -1,0 +1,39 @@
+// Star Revenge 2 Act 1: To the Moon
+// layout edited by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"Main Courses","Type":2},
+		{"text":"01","starMask":255,"offset":12,"Type":1},
+		{"text":"02","starMask":255,"offset":13,"Type":1},
+		{"text":"03","starMask":255,"offset":14,"Type":1},
+		{"text":"04","starMask":255,"offset":15,"Type":1},
+		{"text":"05","starMask":255,"offset":16,"Type":1},
+		{"text":"06","starMask":255,"offset":17,"Type":1},
+		{"text":"07","starMask":255,"offset":18,"Type":1},
+		{"text":"08","starMask":255,"offset":19,"Type":1},
+		{"text":"09","starMask":255,"offset":20,"Type":1},
+		{"text":"10","starMask":255,"offset":21,"Type":1},
+		{"text":"Quiz House","Type":2},
+		{"text":"","starMask":129,"offset":34,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"Bowser Courses","Type":2},
+		{"text":"B1","starMask":129,"offset":27,"highlightStarMask":80,"highlightOffset":11,"Type":1},
+		{"text":"B2","starMask":130,"offset":28,"highlightStarMask":160,"highlightOffset":11,"Type":1},
+		{"text":"B3","starMask":129,"offset":29,"Type":1},
+		{"text":"Overworld Stars","Type":2},
+		{"text":"","starMask":227,"offset":8,"Type":1},
+		{"text":"Colorful Space Tunnel","Type":2},
+		{"text":"","starMask":129,"offset":30,"Type":1},
+		{"text":"Cancer Design Castle","Type":2},
+		{"text":"","starMask":129,"offset":35,"Type":1},
+		{"text":"Sea of Connection","Type":2},
+		{"text":"","starMask":129,"offset":32,"highlightStarMask":2,"highlightOffset":11,"Type":1},
+		{"text":"Space Memories","Type":2},
+		{"text":"","starMask":143,"offset":31,"highlightStarMask":4,"highlightOffset":11,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAgpQTFRFR3BME0X+reH6qNf2jsz9seL7ADP/HWX6i8r+GVr/jdP/tOP5A0j/brH4KYT7ATr/lNH+KG36ADb/ATX/JIj9ven6X6f3KGj8vuv7br3/xen4wef7MIT5H4j/b7v7AHD8g8H1AmX/DHb8XqP/AFb/ADX/Dkz/gMT/B0P/ltD9o938T43sve37wej5AXz/aLDzasL/veb3gLjtH5L8EmL/AD7/f8v/w+f4Saf4drvwIoP/Y6j/Nnr8g7b/A3D/g9b8Y7b/Z8L/CJz/AEv/AFb/ab3/Qpz+ven5A3n8puH7Co37csr/asz4A0L/AGL/dMj+Gor/BWb/CID/XKn/BKH/Z8H4f8PwgtD9Ajr/AFH/AEX/e9H/kdb9CYj/LIz/HZP4CKT9QKP6WLX/bcX/Wrv/Ysf/ecPoC7X/gsrqBr//AAAAi9v+AF7/crDtbbrrB5b/gbzuhsr4d7/xcc76ZMb4Iar/I6b1Bq3+edH5MLT/BDpTAGv/AFv/mt39TZH7frfrGn3/JqD/NKPyes3/Fpv6cbfzXLD/K4T/GpX/W7brRJ/wQrH8L3ajasXtd8juHpnMTVdlTrXuILr/FozNAF2RUJy+CavZELjyBMf/AQEBd8H/Dob5T6nyO4j1JnL/d732R6T/bZ/hVG6SAKbu3d3dQb/+LrDhCcr2DI+0tbW1ZYiai4uLsbGxMTExqmmSPAAAAD10Uk5TAHZ4BUM2SgUQH/z9jTdPtdyb5/2C65JrHqHWgvIT4MyJkDfwu4fV402Y8JNKaPD3Wc3W9lOdjpm+eWgz6HHTYAsAAAIgSURBVHjaY6A6YGXBL88hoM6BV4Fm4SxJfPIsXP6urvgsEQhPdnWQw20JU0yzo6uDgxgueQluLn/HsPmt+rzY5ZkNa8OT/QvDCgqMmLFbwB3TnBoOVFBfr4CmVYJVR1fa3N3T3tsn3LuoNTc3V0zEik+Jkx0kKy0l6g4E3J6enjHRJX0VS7u7Ervc4gICYmNjg/TkFRk4pNw9a7Oz7YGgorhnlc+kyRPiOzrynZyc8mODGmRkgaEv6pkNlPMBgt4Ja5ZNr1qy0MkpJCEk3yvOTdkaHD9aMfbRxSV9GRlT165eMW3mykVOISEhjQuCg5V5YQFsH+1d0puRNjUrq3961swpTqXdKQ7BdfNM4B4EKkgNzUibWFW1fMaUrP4UR9fguEAXHoRHFcL9HUPD0iZOnjYjc3GPo6tbQ6CLM1AeAcy8HUPTOssyM9MnpZc6JAX5uTiboiaU5NCwzrLyzPTK1NQUh6SAwMgoNhQFBqFheWUJ6eWVjo7ACG8LsKtxZkRRIFmU19SSAJRPcktMdHML8PCL5EdRIAeUd0ooTXGIswMBD4/qSF92JHneosR4L6+WpLb2wJwcF5cav2q7nCgNJAWWc+K9goLcgtv9VFQio3yjnF38AlG8aRHv5WE3t85GkZOBgZNRKCLC19klUg0hL2sMlJfR5oPays6mKiQc4evLCVfAN9tDXhwqC1PDLxwhDueKCCoxoAF2oFWC1MnNAF2cmOyGmKCnAAAAAElFTkSuQmCC",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGBQTFRFR3BMETVbBhE2IVt0CBg8KG2HF0RmDjFVBhc7Bx5EL36WFD5gKXCKMIKZBhE2K3eRH1RxFD9eBBY7CSpTKG2JIl14LnuTH1RyJ2eDHE5rAx9JDzNWK3OMJGN9BiNLGEdp9YX4MwAAABF0Uk5TAA1MhKI9/iJ7yMde6X3jncbzA6ffAAABJ0lEQVR42q2T266DIBBFsRUBby2goiD4/395mGnUOUn1qevN7MVshkT2c57Nfc5jW9wK7zi/bgvGOA/8OhcOhJuStxvnYVgvS5rlI0zioqDahfq7UOpdmDpGKIR4SCmV0qcw1XXXdZxDlzLGJ2tD0DpXRBQILyZ6463Nsd4W3HJd12l38DbCZCNgjkIecdDiPg9jEhh5AAiEljNGjAoq4hzng+M95G6MQMwawskTwCZ6c6Nzbtx5MkaNLCxuWeCqCM3xGinoHOO2gHOcUUpvQ1XpD9UG/J/QewtRsPimiKK5gIaQ4+QTODhHEEEaGyzExhgPTsg0RFAeUohLBQ6OKc+8MB4PK1nkOtnjmKToknhYHN8lVgnyTHiYgGPOSyh5yNQpf/M3/wFXCyTfsXJfawAAAABJRU5ErkJggg==",
+	"starAmount":"85",
+	"starsShown":7
+}

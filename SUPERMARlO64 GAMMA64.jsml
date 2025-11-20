@@ -1,0 +1,38 @@
+// Gamma64
+// layout edited by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"Main Courses","Type":2},
+		{"text":"01","starMask":15,"offset":12,"Type":1},
+		{"text":"02","starMask":15,"offset":13,"Type":1},
+		{"text":"03","starMask":15,"offset":14,"Type":1},
+		{"text":"04","starMask":15,"offset":15,"Type":1},
+		{"text":"05","starMask":15,"offset":16,"Type":1},
+		{"text":"06","starMask":15,"offset":17,"Type":1},
+		{"text":"07","starMask":15,"offset":18,"Type":1},
+		{"text":"08","starMask":15,"offset":19,"Type":1},
+		{"text":"09","starMask":15,"offset":20,"Type":1},
+		{"text":"10","starMask":15,"offset":21,"Type":1},
+		{"text":"11","starMask":15,"offset":22,"Type":1},
+		{"text":"12","starMask":15,"offset":23,"Type":1},
+		{"text":"13","starMask":15,"offset":24,"Type":1},
+		{"text":"14","starMask":15,"offset":25,"Type":1},
+		{"text":"15","starMask":255,"offset":26,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"Bowser in the Lava Lake","starMask":0,"offset":7,"Type":1},
+		{"text":"S1","starMask":3,"offset":27,"Type":1},
+		{"text":"In the Sea Islands","Type":2},
+		{"text":"S2","starMask":3,"offset":28,"Type":1},
+		{"text":"Chilly Central","Type":2},
+		{"text":"S3","starMask":1,"offset":29,"Type":1},
+		{"text":"Bowser on the Moon","Type":2},
+		{"text":"S4","starMask":3,"offset":30,"Type":1},
+		{"text":"Clock Tower","Type":2},
+		{"text":"","starMask":1,"offset":31,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAThQTFRFR3BMc3MeRDUAMCYAX180iIglWUoAwsAHNCgAPzEAXE4Azc1Ry8kZLSQAMSUARzkA0dFHZGQka18BLiQAOi0ATz0Ayck7R0QUT0QAUEQAyMIcopYFmocArKMGyMUwYVMAtKUFVk0BVUMAzs4cVEIAtqYA0cMH//4Ikn4AW0gAdGAAvK0C+/IIxrYAwLQC1ssH39UH//80rJwAo5MArp4A/v4o//8c7N8H//wM//9GnYwAi3gAzLwD8OUI9ewKbVsA//4U5toImIMA//gJZVQA/fUI+vpO//9WhXAAqZoAFBQM//897e1RRzoCPDs19fU6fWgAZFAArqAD288ITUgFw7wVwLgNKScN6uEsqKifQT4Pk5OT6Ohh+vph2NMPcG9UTUsxt7WYWVcx6OEZm5ZK29U2rqkirKZGND91igAAACR0Uk5TAC1Ahxs9fYJ/gVr5qmOU7c1CabO/4MEJjZvbgOVY8Y/0rs+UoEet8wAAAglJREFUeNp9kXd7mlAUxjExVhON1tFmPl1wmQKCBtni3nub3fX9v0GPtj6UPOqPPzjnvu8ZcDEv/rOz99gh/Pf3Jwf12MPDwRa+dq3WPtQiVq3Vqme+/YZ2TVXV/S0+fqiqrZZaje3Zwgd6JpNpqerV7iEnPTWTy+XA0ts5xB/uZXJ3AFjCPk/luw3fcqAXgDsIwn/P4iDf3oYrpTxJFqC2kC/Bky9ARAIl7ur6GhsKilWplMg8YE1ErsRNHjmISbLCWYrwGTvVkKhYHFAxfz39tqzp04/vHACyaMhfMCxAEYaomKZpCc+Ll7nzulrMLUgVEbE3nzAgTmV5wVEUE3VXL3PxebX4aSqOI/DETRzbcKpL4HAUY9Z9fRwtu92J44hCekgFtn/gUpdZQRSns+YSCctmkxVFgW/oAfcSLuoygUbTcbODULk5Y0eIlfULzMUfqGsEQsOxjgR+zPCIkOuXflff7NEwDIM3EEI8bxjSdr5roKT0P3g+nV4v4OHILmZZgFgD7wZlh7yGfjFLAFlJyq4Dqci8MTBFUCRZoyhNbjSkXQZZlot9ezBgdE3TZMpriHxlKE1nbBoHBkyf0igmFcFcgjRTZwYgHwM4Tdv9uk2fewzlMo13gsFNEkzhkP9vOEriNB5NJLb5cSK6PnBnhHC8k4QCl/NkFMeD7oROCBIvkVBq8x1/ALzoaqo8AlkkAAAAAElFTkSuQmCC",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAGBQTFRFR3BMT09PZGRkQUFBhoaGkpKSSUlJQUFB29vb09PTQUFB4uLiQUFB3t7e1dXVpKSksbGx////QUFBq6ur7+/vZWVl5OTk+Pj4uLi4ycnJ0NDQiYmJnZ2dfn5+wMDATk5O4AlibAAAABF0Uk5TAEIZlTX7ZYH+gbvF5aLbgFhE92y7AAABE0lEQVR42n2QWbKDIBAAcWGJZmOVCJj73/INWPUyJEr/UNjNoJKaXriOtOilHJt+lrI5YpSyPWKWgGgUsjA2BwBzd6xH8Dv38fwNG5f0t08wV8V4KYD/cLsUGOjnE8wZ98eDaLecB4vzpIurOdNmjRMhPPjjxAhPBwKwoF/OLPXhxbiXp4wUWNIbFBgDXgdOdvohxU2YCoE8FDxFLxxCbDEN+C+yRL1AePA9wbCkV0SZjymfgvgJOkv1BvgMrDpY/hNkpzN5pQdBJoYQdSYcBZFaq5RNNMb4FbDJBppAF6wNEFwZCjics29wHChJsmqogveuy4ZfFexx0E0KmKb/foJEoTt41gNBDDnhKMjDaxi/lmd/RbQmITGZCGIAAAAASUVORK5CYII=",
+	"starAmount":"72",
+	"starsShown":8
+}

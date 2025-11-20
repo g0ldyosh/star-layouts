@@ -1,0 +1,26 @@
+// Star Revenge 6.9 Luigi Lost in Time
+// layout edited by @g0ldyosh
+{
+	"courseDescription":[
+		{"text":"Main Courses","Type":2},
+		{"text":"01","starMask":255,"offset":12,"Type":1},
+		{"text":"02","starMask":255,"offset":13,"Type":1},
+		{"text":"03","starMask":255,"offset":14,"Type":1},
+		{"text":"Sea of Connection","Type":2},
+		{"text":"CS","starMask":132,"offset":30,"highlightStarMask":2,"highlightOffset":11,"Type":1}
+	],
+	"secretDescription":[
+		{"text":"Nightsky Tower","Type":2},
+		{"text":"","starMask":129,"offset":34,"Type":1},
+		{"text":"???","Type":2},
+		{"text":"","starMask":129,"offset":35,"Type":1},
+		{"text":"Wishworld of the Specter","Type":2},
+		{"text":"","starMask":129,"offset":33,"Type":1},
+		{"text":"The Update","Type":2},
+		{"text":"","starMask":131,"offset":31,"Type":1}
+	],
+	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAdFQTFRFR3BMSbb8BpH4AEb1AEj0EGT4AFn2AEj0BE30AF32c7z/CW73HW/6Cnf4AEP3AHz3AEr1DWj49vr/uN7/AYH3AED3O5r7V6j+AGD3AIb3AFnyc63/AEf3AD/1A0H2AED3yuP/2ur/l77+/v///v//UZ7/c8j++Pv/M6r8AE/0AGj2AIH3AIH3AD31Hp/7AY/3veb/o9D/AGz3wej/hsX/q9r/AGT0Yor8AGr3AG/3Bf76////BZT59/7/C5f6An74/P7/9P//EY/9Haf+AJD3QMf/Boj65vz/Cpr6AHb40/r/QNb/l/L8AwMDGZr/AGn3LLn/AXr4Aob3Sc//FaD83/T/tvH/Hb3/LKf9i+f/pvL/AGP2AFv3AE/38Pj9CYr6ze37c9//BYL5UNv/q+H5HcP+Njk5faT9Ia793+v/BoT5pMn/AIr4Xrz+AIL3L8z/6vT8Zeb/LML/FrP8KdD/hfH/jtX/rPz/QnJ13+DgRqH9qdj/AG/3t+T/C6n8Zdj/c8j+WMn/W9//Vev/l8fOeej/TL3/wvz/N7D+nuj/YZCSvLy8REhIgJOTlLH+IH77N2n6RuH/Srbjc7bJg///QpKnVcrVtdDRfIqMcXFxYWFhz3fFAgAAADp0Uk5TAK6IZSU9MwWH8GYSgq//8z1NBRkfo1aXb60N6FDqw7Vu8PCdpSiAzs3fx9q8zPPG1t+hkyRL0fmd2zuphl0AAAImSURBVHjarZNlcxpRFIaBoKGEEGkar7t7567ALrvo4ovr4sUJFiNKvO79tQUqwKSk05mcr897zz3vEdb/xtnBfwimp8Un8jOplOQkzn2WXH3D788Fc6/l9NJTQV/BubdJ4M+sCPvxKVEcBnAl7eP2ETxHlwGAIzbj/N85T+OkAQD2PcY3c5zyebIXynW4KdBuYJrZ4Y4VoWTy9i0palFCkLqyeAjkwU9ORmNmoLvX2Wz21UEWT9pESN0RjRaJ/a8xP/wl9n5vZ2e9EgnSfth/vunNrITUjmhOF264Y98XFa++fXC59u3a1nfgUru9niwZqC8Qa/oIFTtUHB3V9G6tSt7il0faZYz7zC/JuoPY1FNUMwN1YFcpQCuujfzq8B2fOYAsRHVbNSqv3aa2f3L5hdHfTsQ3jGnE5ijpPh/sVvW1YJvnL17pmqJoJa3GS+8+Vt0ufdWuaj5PxnndfRr2oGpHaatcboRCDb0dBvl478i4XtJQtG4WCmHCuhZyaYE8JetZhAEPiRM6XdiaMDgJa8GtAPRET4Z5FDMRuZwJRxjMYNI1dhXwg54MooCzaErgNgg1omTAGS5rFcHH3TVqMFMCQxCl2TPk02Qh3OpW0U+6lxkzICRjQY0ioXB2yJtV4xur9KMuwT0bxqBG782BqVbBc14LhGci9ztcrDaQGtE4/4/ph1KlLbM82rk3RCmZEfRULZu0LHWukMMZYx2LMc4E61TiBzKPkAI18nT3AAAAAElFTkSuQmCC",
+	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAJNQTFRFR3BMP0xeIS08Xm6BHys6Iy8/S1psJzRELjxMc4SYICw7fI2iiJmvIS08IC09OkhZICw7doebP05fhZashJarPEtcKzhJMT9OWWl8eIidiZqwbX6RWWl9bX6SJDFALDlKUmJ0PEtceoufaHmMQlFiNEFTcoKXf5GlMD5OSFdpdoaaN0VXYHCDhZarY3OHTl1wRVRm0fnAogAAABx0Uk5TAA1MhHfI/v4cPZgjfeMwX63px77Qq414xp6cXVXvWG8AAAFdSURBVHjarZPZkoIwEEVRgQCDuC8zAwkhQROCkf//uumYAWKV8uR5o+6hF7rwPs7idzqP2WY2KZxZ8T3ZoGXFJX6fRzkIzUSTc66LS1O9bbIqrXD9etMg7IX9a+Ege+GWeg6zKJufTsftlo/Cbb9L0zSOTa8AIyJqRSmX0II9BDB6frxoiQjkvJP3Mm9BqKrqCo7hdt1BiQyBQbnJH0LTVAObxz5zhIQxoIAG4Z8G2MQQGwMjoWgXmhasYMXA8D2OvdHqVmummcU5yhoTofg9b3OYw6CBheeQYKG6Mi9LGNXSjrkdVFAJsZSwDQDa89UT2DQMZcc572R4NzxXWBLFIaVKKUrBAbZunmFBOaWqFkTU4JhCXeQIPqqpMjFCiBiHAitHCEgNKUEYrQNsr6fUwbk4JgJSHPgzz4v8JTZlROAsiU2cZMPzGhsnGpe0Lw/YMngcIvAH2XWSz/zNf1oqOPMKqJ4JAAAAAElFTkSuQmCC",
+	"starAmount":"25",
+	"starsShown":7
+}
