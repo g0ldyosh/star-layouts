@@ -1,6 +1,6 @@
 // 328 star layout for B3313
 // layout by @g0ldyosh
-// requested by spam_mjelonka_mjensna
+// requested by @spam_mjelonka_mjensna
 {
 	"courseDescription":[
 		{"text":"01","starMask":255,"offset":12,"Type":1},
@@ -51,4 +51,5 @@
 	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAABhQTFRFR3BMcHBwAAAAZWVlW1tbSkpKNjY2IiIiudkYlgAAAAF0Uk5TAEDm2GYAAAC/SURBVHjarZNLjsQgDAXx+9j3v/EoyVgQWqI3XdkEqoQXiPFzSl98Mk4e5YhTgeQxQCniVCDj5nQAeSiQ5CmoUgfUmOSFLxR8Ckq2bEnX4LQYEby+LqLhAICyJO7IBWDgJu01kSTjZvwXVWshZbb/HnQC63Y9vf0sUmxy6qWYnlHtm56gCzLCxnZPpVs7JenzQvAIF4C0tAcoW87CQ3ovkHZiIcl3UNioYix+svwzPoPXsrgH+zpHM/V76zev+Q87ZAX22yKKawAAAABJRU5ErkJggg==",
 	"starAmount":"328",
 	"starsShown":8
+
 }
