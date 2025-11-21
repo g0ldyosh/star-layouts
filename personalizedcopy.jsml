@@ -1,7 +1,8 @@
 // B3313 0.2.B
 // layout by @g0ldyosh
 // special thanks to @its_ender_
-	{"courseDescription":[
+{
+	"courseDescription":[
 		{"text":"4th Floor","Type":2},
 		{"text":"","starMask":131,"offset":31,"Type":1},
 		{"text":"Abstract Room","Type":2},
