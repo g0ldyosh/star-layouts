@@ -2,7 +2,7 @@
 // layout by @g0ldyosh @thegreatestroman and @emax64
 {
 	"courseDescription":[
-		{"text":"Yellow Stars","Type":2},
+		{"text":"-- Yellow Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Aquarium Limbo","Type":2},
 		{"text":"","starMask":96,"offset":28,"Type":1},
@@ -246,7 +246,7 @@
 		{"text":"Yoshi's Beach","Type":2},
 		{"text":"","starMask":62,"offset":16,"Type":1},
 		{"text":"","Type":2},
-		{"text":"Red Stars","Type":2},
+		{"text":"-- Red Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Bowser in the Airship Cabin","Type":2},
 		{"text":"","starMask":128,"offset":50,"Type":1,"useExtraIcon":true},
@@ -263,7 +263,7 @@
 		{"text":"wf.z64","Type":2},
 		{"text":"","starMask":32,"offset":51,"Type":1,"useExtraIcon":true},
 		{"text":"","Type":2},
-		{"text":"Green Stars","Type":2},
+		{"text":"-- Green Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Aquarium Lobby","Type":2},
 		{"text":"","starMask":4,"offset":46,"Type":1},
@@ -280,14 +280,14 @@
 		{"text":"Uncanny Courtyard (windy)","Type":2},
 		{"text":"","starMask":1,"offset":8,"Type":1},
 		{"text":"","Type":2},
-		{"text":"Jumbo Stars","Type":2},
+		{"text":"-- Jumbo Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Eternal Fort","Type":2},
 		{"text":"","starMask":64,"offset":48,"Type":1},
 		{"text":"Endings","Type":2},
 		{"text":"","starMask":16,"offset":49,"Type":1,"useExtraIcon":true},
 		{"text":"","Type":2},
-		{"text":"Yellow Switch Star","Type":2},
+		{"text":"-- Yellow Switch Star --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Holy Yellow Switch Palace","Type":2},
 		{"text":"","starMask":128,"offset":8,"Type":1}
