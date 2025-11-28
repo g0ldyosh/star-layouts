@@ -104,7 +104,7 @@
 		{"text":"Wing Cap by the Rainbow Highway","Type":2},
 		{"text":"","starMask":248,"offset":21,"Type":1},
 		{"text":"","Type":2},
-		{"text":"Royal Checkerboard","Type":2},
+		{"text":"-- Royal Checkerboard --","Type":2},
 		{"text":"","starMask":159,"offset":28,"Type":1},
 		{"text":"","Type":2}
 	],
