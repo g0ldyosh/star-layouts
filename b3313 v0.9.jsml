@@ -3,7 +3,7 @@
 // special thanks to Bikdiponabus
 {
 	"courseDescription":[
-		{"text":"Yellow Stars","Type":2},
+		{"text":"-- Yellow Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Aquarium Limbo","Type":2},
 		{"text":"","starMask":5,"offset":28,"Type":1},
@@ -258,7 +258,7 @@
 		{"text":"","starMask":1,"offset":16,"Type":1},
 		{"text":"","Type":2},
 		{"text":"","Type":2},
-		{"text":"(Real) Red Stars","Type":2},
+		{"text":"-- (Real) Red Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Bowser in the Bully Battlefield","Type":2},
 		{"text":"","starMask":1,"offset":51,"Type":1,"useExtraIcon":true},
@@ -273,12 +273,12 @@
 		{"text":"Toad Catacombs","Type":2},
 		{"text":"","starMask":16,"offset":50,"Type":1,"useExtraIcon":true},
 		{"text":"","Type":2},
-		{"text":"Green Star","Type":2},
+		{"text":"-- Green Star --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Genesis Basement","Type":2},
 		{"text":"","starMask":4,"offset":50,"Type":1},
 		{"text":"","Type":2},
-		{"text":"Yellow Switch Stars","Type":2},
+		{"text":"-- Yellow Switch Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Holy Yellow Switch Palace","Type":2},
 		{"text":"","starMask":133,"offset":8,"Type":1}
