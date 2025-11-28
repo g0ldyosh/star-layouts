@@ -3,7 +3,7 @@
 // edited by @g0ldyosh
 {
 	"courseDescription":[
-		{"text":"Yellow Stars","Type":2},
+		{"text":"-- Yellow Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Aquatic Limbo","Type":2},
 		{"text":"","starMask":128,"offset":63,"Type":1},
@@ -268,7 +268,7 @@
 		{"text":"Zany Castle","Type":2},
 		{"text":"","starMask":12,"offset":23,"Type":1},
 		{"text":"","Type":2},
-		{"text":"Red Stars","Type":2},
+		{"text":"-- Red Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Basement Maze","Type":2},
 		{"text":"","starMask":2,"offset":51,"Type":1,"useExtraIcon":true},
@@ -285,7 +285,7 @@
 		{"text":"Wonderland Woods","Type":2},
 		{"text":"","starMask":128,"offset":50,"Type":1,"useExtraIcon":true},
 		{"text":"","Type":2},
-		{"text":"Green Stars","Type":2},
+		{"text":"-- Green Stars --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Cave Dungeon","Type":2},
 		{"text":"","starMask":192,"offset":48,"Type":1},
@@ -297,7 +297,7 @@
 		{"text":"World of Dreams","Type":2},
 		{"text":"","starMask":2,"offset":50,"Type":1},
 		{"text":"","Type":2},
-		{"text":"Yellow Switch Star","Type":2},
+		{"text":"-- Yellow Switch Star --","Type":2},
 		{"text":"","Type":2},
 		{"text":"Holy Yellow Switch Palace","Type":2},
 		{"text":"","starMask":128, "offset":8,"Type":1}
