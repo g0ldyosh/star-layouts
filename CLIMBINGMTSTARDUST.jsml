@@ -3,15 +3,15 @@
 {
 	"courseDescription":[
 		{"text":"Foot of Mt. Stardust:","Type":2},
-		{"text":"","starMask":129,"offset":8,"Type":1},
+		{"text":"","starMask":1,"offset":8,"Type":1},
 		{"text":"Section 1:","Type":2},
-		{"text":"","starMask":129,"offset":12,"Type":1},
+		{"text":"","starMask":1,"offset":12,"Type":1},
 		{"text":"Section 2:","Type":2},
-		{"text":"","starMask":129,"offset":13,"Type":1},
+		{"text":"","starMask":1,"offset":13,"Type":1},
 		{"text":"Crystal Cave:","Type":2},
-		{"text":"","starMask":130,"offset":8,"Type":1},
+		{"text":"","starMask":2,"offset":8,"Type":1},
 		{"text":"Section 3:","Type":2},
-		{"text":"","starMask":129,"offset":14,"Type":1}
+		{"text":"","starMask":1,"offset":14,"Type":1}
 	],
 	"secretDescription":[
 		{"text":"8 Red Coins","Type":2},
