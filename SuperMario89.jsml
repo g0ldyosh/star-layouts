@@ -3,19 +3,19 @@
 {
 	"courseDescription":[
 		{"text":"Bob-omb Warzone","Type":2},
-		{"text":"01","starMask":255,"offset":12,"Type":1},
+		{"text":"01","starMask":127,"offset":12,"Type":1},
 		{"text":"Salty Fortress","Type":2},
-		{"text":"02","starMask":255,"offset":13,"Type":1},
+		{"text":"02","starMask":127,"offset":13,"Type":1},
 		{"text":"Black Bart Bay","Type":2},
 		{"text":"03","starMask":127,"offset":14,"Type":1},
 		{"text":"Brass Monkey Mountain","Type":2},
 		{"text":"04","starMask":127,"offset":15,"Type":1},
-		{"text":"Overworld","Type":2},
+		{"text":"-- Overworld --","Type":2},
 		{"text":"","starMask":127,"offset":8,"Type":1}
 	],
 	"secretDescription":[
 		{"text":"Bowser in the Worldo","starMask":0,"offset":7,"Type":1},
-		{"text":"B1","starMask":129,"offset":27,"highlightStarMask":80,"highlightOffset":11,"Type":1},
+		{"text":"B1","starMask":1,"offset":27,"highlightStarMask":80,"highlightOffset":11,"Type":1},
 		{"text":"Dark Slide","Type":2},
 		{"text":"","starMask":2,"offset":30,"Type":1},
 		{"text":"Inside the Ship","Type":2},
