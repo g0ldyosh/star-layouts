@@ -2,15 +2,15 @@
 // layout by @g0ldyosh
 {
 	"courseDescription":[
-		{"text":"Maple Meadow","Type":2},
-		{"text":"01","starMask":255,"offset":12,"Type":1},
-		{"text":"Polar Peaks","Type":2},
+		{"text":"-- Maple Meadow --","Type":2},
+		{"text":"01","starMask":127,"offset":12,"Type":1},
+		{"text":"-- Polar Peaks --","Type":2},
 		{"text":"02","starMask":127,"offset":13,"Type":1},
-		{"text":"Lush Lagoon","Type":2},
-		{"text":"03","starMask":255,"offset":14,"Type":1},
-		{"text":"Torchlight Temple","Type":2},
+		{"text":"-- Lush Lagoon --","Type":2},
+		{"text":"03","starMask":127,"offset":14,"Type":1},
+		{"text":"-- Torchlight Temple --","Type":2},
 		{"text":"04","starMask":127,"offset":15,"Type":1},
-		{"text":"Supersonic Slide","Type":2},
+		{"text":"-- Supersonic Slide --","Type":2},
 		{"text":"","starMask":3,"offset":30,"Type":1}
 	],
 	"secretDescription":[],
