@@ -2,15 +2,15 @@
 // layout by @g0ldyosh
 {
 	"courseDescription":[
-		{"text":"Bountiful Beach","Type":2},
+		{"text":"-- Bountiful Beach --","Type":2},
 		{"text":"","starMask":96,"offset":28,"Type":1},
-		{"text":"Cozy Woods","Type":2},
+		{"text":"-- Cozy Woods --","Type":2},
 		{"text":"","starMask":128,"offset":28,"Type":1},
-		{"text":"Ghost House","Type":2},
+		{"text":"-- Ghost House --","Type":2},
 		{"text":"","starMask":128,"offset":25,"Type":1},
-		{"text":"Grim Green Forest","Type":2},
+		{"text":"-- Grim Green Forest --","Type":2},
 		{"text":"","starMask":24,"offset":28,"Type":1},
-		{"text":"Koopa Hideout","Type":2},
+		{"text":"-- Koopa Hideout --","Type":2},
 		{"text":"","starMask":66,"offset":16,"Type":1}
 	],
 	"secretDescription":[],
