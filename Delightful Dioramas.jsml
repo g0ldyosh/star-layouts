@@ -1,28 +1,29 @@
 // Lug's Delightful Dioramas (v1.02)
+// layout edited by @g0ldyosh
 {
 	"courseDescription":[
-		{"text":"Main Courses","Type":2},
-		{"text":"01","starMask":255,"offset":12,"Type":1},
-		{"text":"02","starMask":255,"offset":13,"Type":1},
-		{"text":"03","starMask":255,"offset":14,"Type":1},
-		{"text":"04","starMask":255,"offset":15,"Type":1},
-		{"text":"05","starMask":255,"offset":16,"Type":1},
-		{"text":"06","starMask":255,"offset":17,"Type":1},
-		{"text":"07","starMask":255,"offset":18,"Type":1},
-		{"text":"Overworld Stars","Type":2},
-		{"text":"","starMask":135,"offset":8,"Type":1}
+		{"text":"-- Main Courses --","Type":2},
+		{"text":"01","starMask":127,"offset":12,"Type":1},
+		{"text":"02","starMask":127,"offset":13,"Type":1},
+		{"text":"03","starMask":127,"offset":14,"Type":1},
+		{"text":"04","starMask":127,"offset":15,"Type":1},
+		{"text":"05","starMask":127,"offset":16,"Type":1},
+		{"text":"06","starMask":127,"offset":17,"Type":1},
+		{"text":"07","starMask":127,"offset":18,"Type":1},
+		{"text":"-- Overworld --","Type":2},
+		{"text":"","starMask":7,"offset":8,"Type":1}
 	],
 	"secretDescription":[
-		{"text":"Quantum Cube","Type":2},
-		{"text":"Ye","starMask":135,"offset":30,"Type":1},
-		{"text":"Gr","starMask":135,"offset":31,"Type":1},
-		{"text":"Bl","starMask":135,"offset":33,"Type":1},
-		{"text":"Re","starMask":135,"offset":32,"Type":1},
-		{"text":"Or","starMask":135,"offset":35,"Type":1},
-		{"text":"Pu","starMask":135,"offset":34,"Type":1},
-		{"text":"Ti","starMask":135,"offset":27,"Type":1},
-		{"text":"Spectral Spectacle","Type":2},
-		{"text":"","starMask":129,"offset":28,"Type":1}
+		{"text":"-- Quantum Cube --","Type":2},
+		{"text":"Ye","starMask":7,"offset":30,"Type":1},
+		{"text":"Gr","starMask":7,"offset":31,"Type":1},
+		{"text":"Bl","starMask":7,"offset":33,"Type":1},
+		{"text":"Re","starMask":7,"offset":32,"Type":1},
+		{"text":"Or","starMask":7,"offset":35,"Type":1},
+		{"text":"Pu","starMask":7,"offset":34,"Type":1},
+		{"text":"Ti","starMask":7,"offset":27,"Type":1},
+		{"text":"-- Spectral Spectacle --","Type":2},
+		{"text":"","starMask":1,"offset":28,"Type":1}
 	],
 	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAG9QTFRFR3BM4eHh4eHh3t7e5OTk4+Pj4uLi7e3t4+Pj3t7e4eHh4uLi4+Pj4+Pj3t7e6urqzs7O4ODg6+vr5ubm39/f8PDw6urq2NjY5OTk9vb25+fnlpaWU1NTf39/tra2pqamZGRkAAAAPDw8BAQEDw8P78AEbgAAABR0Uk5TAEXaqnIKV/4Z/jWCJWT06/zAwZNUtD4FAAABTElEQVR42q2T2ZKDIBBFo6KIC2oEGtsl2/z/Nw7QMwlWJT6lq9TSezjNUp6+Xm11nJfd+RgYDGdHeWG0Ns1RA665PmiSce3rY5OE8omX7/M8dSnX0zR9aMK8wASiiMeVTZUULavHTtsNUG0wTd1Ys7ZIqqbMT60QylpE48bO1xUv19VobhDRClduwjU4JDC4zKtaL1uPPlY+H8PiQIQXoZZlUety7T0cPmU0i8GHHloedzs/fsjgFEP+t4GpCGXn24zb7Y6cG2PQnl1O1UgywAzWXnrti5s02q9K0iSU46zhIe+a3TGSwl1EcJTV/hzJIOiBBq2k4I0BQCi/hL0hiwwQdk7UcZ5LMtANwMNDDCQiMigFASkjoP4fnLI6pTYA8ZnTVsosCbpMBiJ75Y2PU/Z0lix1RJ8/gVbIMYmEpIHqNYU238ekKb7zN/8C0y8ctWYyS5sAAAAASUVORK5CYII=",
 	"darkStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAHJQTFRFR3BMGSJIHChcGiRPGB04HzaFFRkrHzBvFxszHjWCFxsxHilcFxowHzaDGB03IDN8HzeJITaFFxktHCVSFxouHzJ5GBwzIDaGHzN/HzN6HzJ2HjFwHi5qHy1mHytiHihbHiVUHCVOGyNHGyFBGR87GBwypuWjjQAAABd0Uk5TAA8ZKD1DU1ppfYOTlKmrtb/DyNLh6fBFZ50WAAABLUlEQVR42q2T3ZJDQBSE/UcEuysZghDMzPu/4nZnxhpVG1f57lR/dfocivdxTqfjPBAiOBSKvvs6LHj0XXtQ4gsKByWXkUL7tiR6voT7PX5TcLVCI/z/C6Z1QlPsbw+jNMvL67wJjfguivM5jsPAy7VWSi7LPE+bsFF4fqWZM35agTTG+uFuNxgQEI8DBQKLmG3D2hojBvQdaC0itPevBieQDhoQsWdJtDLG8CC9xfkoKYyXMGAPWuTsOeQaApbgJXRgXfafAQLvnMy1BAUOmZbLhHgGcMh+QqXkzHgBUMjVzX00MJUS50g4lEJHSNBgYq2NAid1j1DSpLos9eqUjnBTinGV+qhLKyhw6i0PNdI6j/6esxudyHmRukp8zyVBVbatkAVuSFiVf+Zv/gVxfjG0a//sogAAAABJRU5ErkJggg==",
