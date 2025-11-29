@@ -2,23 +2,23 @@
 // layout by @g0ldyosh
 {
 	"courseDescription":[
-		{"text":"Main Courses","Type":2},
+		{"text":"-- Main Courses --","Type":2},
 		{"text":"01","starMask":127,"offset":12,"Type":1},
 		{"text":"02","starMask":127,"offset":13,"Type":1},
 		{"text":"03","starMask":127,"offset":14,"Type":1},
 		{"text":"04","starMask":127,"offset":15,"Type":1},
 		{"text":"05","starMask":127,"offset":16,"Type":1},
-		{"text":"Overworld Stars","Type":2},
-		{"text":"","starMask":135,"offset":8,"Type":1}
+		{"text":"-- Overworld --","Type":2},
+		{"text":"","starMask":7,"offset":8,"Type":1}
 	],
 	"secretDescription":[
-		{"text":"Cap Courses","Type":2},
-		{"text":"WC","starMask":129,"offset":32,"highlightStarMask":2,"highlightOffset":11,"Type":1},
-		{"text":"MC","starMask":129,"offset":31,"highlightStarMask":4,"highlightOffset":11,"Type":1},
+		{"text":"-- Cap Courses --","Type":2},
+		{"text":"WC","starMask":1,"offset":32,"highlightStarMask":2,"highlightOffset":11,"Type":1},
+		{"text":"MC","starMask":1,"offset":31,"highlightStarMask":4,"highlightOffset":11,"Type":1},
 		{"text":"VC","starMask":1,"offset":33,"highlightStarMask":8,"highlightOffset":11,"Type":1},
-		{"text":"The Secret Aquarium","Type":2},
-		{"text":"","starMask":129,"offset":35,"Type":1},
-		{"text":"Spectacular Station","Type":2},
+		{"text":"-- Secret Aquarium --","Type":2},
+		{"text":"","starMask":1,"offset":35,"Type":1},
+		{"text":"-- Spectacular Station --","Type":2},
 		{"text":"","starMask":1,"offset":27,"Type":1}
 	],
 	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAX1QTFRFR3BM/+Qq/+cU//El/+wn///u//+3/9Ar/9RA/9sZ/8sU/9oq//9e/9YQ/9kO/+MW//Q7/6EQ/94Y//d6//9f//91/5EJ/9Ef//Qg/7wQ/9MK/40M/7kN/8wM/5ET//o7//5Y//9P//9a//9h//9t+doS/+0h+/uM//+D//+//+8d/+4Z/+8Y/4oJ/5kL/9YL/70O/4kL/40V/8AQ/5MV/4wJ/7AI//+a///p/7kM/4wI/5gI/54J/5EI/+sV/9sN//Yk/8sQ/6kJ/9QP//+I//+S/+UT/98T/+8d/4cI/60M/5UI/6UL/7QP//sv//4//8MM/6EJ/74X//+t/s8e//98//5l/+M2//++//9v//1a/Os///tL///9///S/8kd///K/+Ef//NF//+gIR0IAgICZGERlJSDta8q078c///h//+bdnAWTk1BnJQcvbxKoaFU09N35eWzc3M+np5foaFX4OAt4uBQgICA8e5YopI3QkExrKysY2Nj0tLSxA++tQAAAFl0Uk5TABWliUv+/wwENyD+22xZ4HpZ/SeT+0VEypL7u/XvoFrpn4Q5qfr7/bhwX+518OmLr24py+N/19C+//////////////////////////////////////////3x7EcVAAAB/ElEQVR42q1T1ZIaURTEXWth3T3uMg4jjA+M4ezisKzEXb49dyopYKqA5CH9dqv76O3j+O/Y8SzmnbsR/0LBHk2nFvGetK6fHMzn/RHG1yy/CMwVpGjd1xyNbs3jD9Id/bLsbXiXZvOBCN25NDujRuPlbMG+yTBm1fSBFNNF/KGgZyexnzo8TdNvPnxpf3r/1ustnx7uuRPR2Eow5EhK8nm4VKtXixXz3edh5mYw0HWmUs0rGS5HrIPFPsNQQdYsUfvb96/c1c9BPa8omQyH4ywVtYpswxgqkZB2bnSvb7j+j+uMBY7Dc8SD391vICgpF7LUUbc3VPq9fh5AUUAKV+BPn88hQLM57qr7MT/svaYZhjaLdWV1/G+hLYpg2Vbr4uK4VXt1ojfPznxMMeKczBo8IgiWyhoGRBrtClMGfGXXts8YQWUhWVYRDNVqVVqn2+GgbYuhdYhEVUTEMBiTjFKxWNp02gSxgoSIAAiKwTCihUuGkLQJHgqqxaoCJIkwLMqaJm3bnLJJqihJWtNmBRHmRVRCn077ZgUSSBnKgmFzLAWhGM/DGPx4SrAGgWCCxfG42x0nCoLIAzyaskocBOfwY5cnAB4e1xakwjy/MREssSB49e54MGf0CYnx9yYXksDvuOx7cQTX7sPL45f7tn+GRZPLjr8h8C/X/AuMkXN2a1kH+AAAAABJRU5ErkJggg==",
