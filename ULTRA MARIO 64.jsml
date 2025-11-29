@@ -2,14 +2,14 @@
 // layout by @g0ldyosh
 {
 	"courseDescription":[
-		{"text":"Daffodil Meadow","Type":2},
-		{"text":"","starMask":255,"offset":12,"Type":1},
-		{"text":"Flying Fortress","Type":2},
-		{"text":"","starMask":255,"offset":13,"Type":1},
-		{"text":"Dancing in the Lights","Type":2},
-		{"text":"","starMask":129,"offset":35,"Type":1},
-		{"text":"Legacy Fortress","Type":2},
-		{"text":"","starMask":159,"offset":30,"Type":1}
+		{"text":"-- Daffodil Meadow --","Type":2},
+		{"text":"","starMask":127,"offset":12,"Type":1},
+		{"text":"-- Flying Fortress --","Type":2},
+		{"text":"","starMask":127,"offset":13,"Type":1},
+		{"text":"-- Dancing in the Lights --","Type":2},
+		{"text":"","starMask":1,"offset":35,"Type":1},
+		{"text":"-- Legacy Fortress --","Type":2},
+		{"text":"","starMask":31,"offset":30,"Type":1}
 	],
 	"secretDescription":[],
 	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAEtQTFRFR3BM/f0A/f0B//8A//8A//8A//8A//8A//4A//8A//8A//8A//8A//8A//8A/f0A//8A8PAA29sAyckAxMQAuroAUVEALi4ADw8AAsEMsgAAABB0Uk5TABYwQFRia36Pn7HA093x/OtNb0QAAADISURBVHjavZHbDoMgEETXu7iyDHjr/39pqUlRJJI0bXoel8MwAP2aCui+EkoF6DojtPC0mQMGeHRzK3TwZFpUjB2uMgFpBB/ot6D5gHDCLos182JxgkZBwG2bs+tjjgRiBKZEEHrBdwnq0t/EgqrKIBQqTVBF9EsN78LqhW3a37ukGAXAOmeMcxYA04UGF/hDoQtzlsNIBfHTXt8LMpCnl1SoRwAmjJTsF40DjIwUGMREETUnrXtAt8eGsB6F6pPAxVUoBi/8hycj7BjJGLpMxwAAAABJRU5ErkJggg==",
