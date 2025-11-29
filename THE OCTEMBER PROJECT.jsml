@@ -3,13 +3,13 @@
 {
 	"courseDescription":[
 		{"text":"F. ISLAND","Type":2},
-		{"text":"01","starMask":135,"offset":12,"Type":1},
+		{"text":"01","starMask":7,"offset":12,"Type":1},
 		{"text":"SNOW LAND","Type":2},
-		{"text":"02","starMask":129,"offset":18,"Type":1},
+		{"text":"02","starMask":1,"offset":18,"Type":1},
 		{"text":"MOUNTAIN","Type":2},
-		{"text":"03","starMask":129,"offset":20,"Type":1},
+		{"text":"03","starMask":1,"offset":20,"Type":1},
 		{"text":"BOO HOUSE","Type":2},
-		{"text":"04","starMask":131,"offset":16,"Type":1},
+		{"text":"04","starMask":3,"offset":16,"Type":1},
 	],
 	"secretDescription":[],
 	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAI1QTFRFR3BM0r0Ls6QXuaQJwKwLbGMMlYcO07wNmYkO18YekIAEppUJkYUSz7oTbWIISkYLzrkNrp4QcmYGyrcY3swf4ckInIsF79YQ584I994X/+ch7M8K79ML/uwn79YL89gT+uId/+YdvKgJw64LGRYAq5kL5s4UlYYKa2EH3sUMfm4GLikCBQQAV00EY1cGVssLBQAAABd0Uk5TALB9v8Q/Q/9//ry/aNQeBeuGVMPf0OJ0W/nhAAABUklEQVR42pXTy3aCMBCA4dECARXFS5tEIsFw9fr+j9fJpCIepKf9NyzyZSYb4H8FEbaC0cLogEX+OMj3CGQAIy12ewsOsT8+gEQ+MiKI86MTk/cjplI+xAKGbdZbScLmrf2X3bZYYiRoyHaKuUFBEHFM64cgQpt2YYjnJ8UpnTLGybBIIqCiEJhIuatoW0bn9zY6dgKMEG6EaspLg3t4cymNPLpNeQIb8zPidL6WZ9xRt+W1wm+Or5HbJYBfCNUB5UBTS5s2gK2WRqiM89quSPGtuKLSEuPVksBqU5Awt1vBua7N7c6e992MiRU1Y/SaumBKa6k9H7r8OFVZxhWnkGlO5888QaLfHF4BiewXgMKSERAmwpaq3pRk0QMT4UqRdGM+hoAIItcA9BD1DrAKOwnXECTeDLC5xwZg+om3DR67vgwSNoO+MCaAXjNjZn/84b8BTt44vjqttG8AAAAASUVORK5CYII=",
