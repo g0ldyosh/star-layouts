@@ -3,17 +3,17 @@
 {
 	"courseDescription":[
 		{"text":"THE YETI IS LONELY!","Type":2},
-		{"text":"","starMask":129,"offset":12,"Type":1},
+		{"text":"","starMask":1,"offset":12,"Type":1},
 		{"text":"FINDING JET ERIKSEN","Type":2},
-		{"text":"","starMask":130,"offset":12,"Type":1},
+		{"text":"","starMask":2,"offset":12,"Type":1},
 		{"text":"THE SECRET SHACK SLIDE","Type":2},
-		{"text":"","starMask":132,"offset":12,"Type":1},
+		{"text":"","starMask":4,"offset":12,"Type":1},
 		{"text":"THE CONVEYOR BELT SECRET","Type":2},
-		{"text":"","starMask":136,"offset":12,"Type":1},
+		{"text":"","starMask":8,"offset":12,"Type":1},
 		{"text":"THE CITY CHAPEL CLIMB","Type":2},
-		{"text":"","starMask":144,"offset":12,"Type":1},
+		{"text":"","starMask":16,"offset":12,"Type":1},
 		{"text":"???","Type":2},
-		{"text":"","starMask":160,"offset":12,"Type":1},
+		{"text":"","starMask":32,"offset":12,"Type":1}
 	],
 	"secretDescription":[],
 	"goldStar":"iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAIdQTFRFR3BMEQ8PSTk5cWtrfHZ2WFBQY19fa2BgV1FRPTk5oJiYSkNDGBYWOjQ0MC0tNzMzISAgLygodxMTNwYGCAYGYzIyehoacwAAbQAAegAABQAAYQAAMAAASQAAGAAAaAAAUQAADQAAQgAAWQAAOgAAgAAAkQAAnAAAIQAAqQAAJwAAigAAugAAPp0gYAAAABd0Uk5TAP3QKxSgXD577Qm+993xlOi8/fxP9/SoZgc1AAABjUlEQVR42q2S6XKCMBCAFwQCKB61NRASTLiM2vd/vm6Wq9Oq0x/9ZpgJ7DebPYA/sYoPyWEXrWAkiPCDv2PTa2asrLVWxyQiPTsqrWt5q5JBWQurynOOnD8wSeqXdC6VNEmA8VhUbXPOOecF534KYe4OPM/L2op1CmxjpC5RKJCuiNlb4XBG01YihsTYuhmEe9/3p1Pf37vBOGtZbSFDQZPR3S/X6+WKDxqTkIAvbKvIKFD4RK6XfhaMDztRyZoM3vXO+JZB3czaNXFrRwNTLAk4tbGDYIspBoMuwfi9GBNI4zGAyDNWtkrpkgyKz12GNMnlkrwbmuRDBYImCUFi8JKpUJrB2MKGARELY2ejGAtoWusuINJMVJOBO6ECytbSqgbYHssgA8sYF3UzXgQzbDsYuqG1z/GFaGPQoBSI+xVEDAtUKBq0FERJN4EfhK6VWjVjfA3wyHApGhf3A/hFShPV2sWzAB4Q+G7zNca3K3jIao+GrGjCz42KBvCElG2M8WJ4AfNECC95D+G/+QIovkEqtJsOmgAAAABJRU5ErkJggg==",
