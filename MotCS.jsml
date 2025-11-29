@@ -2,11 +2,11 @@
 // layout by @g0ldyosh
 {
 	"courseDescription":[
-		{"text":"Exosphere of the Light Cap","Type":2},
+		{"text":"-- Light Cap Exophere --","Type":2},
 		{"text":"","starMask":31,"offset":12,"Type":1},
-		{"text":"Garden of the Water Cap","Type":2},
+		{"text":"-- Water Cap Garden --","Type":2},
 		{"text":"","starMask":31,"offset":15,"Type":1},
-		{"text":"Highlands of the Wind Cap","Type":2},
+		{"text":"-- Wing Cap Highlands --","Type":2},
 		{"text":"","starMask":31,"offset":18,"Type":1}
 	],
 	"secretDescription":[],
