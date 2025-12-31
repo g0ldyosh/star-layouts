@@ -1,5 +1,5 @@
 // Luigi's Ghostly Quest
-// layout by @g0ldyosh
+// layout edited by @g0ldyosh
 {
 	"courseDescription":[
 		{"text":"-- Overworld 1 --","Type":2},
@@ -50,3 +50,4 @@
 	"starAmount":"52",
 	"starsShown":7
 }
+
