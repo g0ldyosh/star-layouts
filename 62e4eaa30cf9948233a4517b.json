@@ -1,0 +1,13 @@
+{"$schema":"https://parallel-launcher.ca/layout/advanced-01/schema.json",
+  "format":{"save_type":"EEPROM","num_slots":4,"slots_start":0,"slot_size":76,"active_bit":95,"checksum_offset":74},
+    "groups":[{"name":"","side":"bottom","courses":[
+      {"name":"Bountiful Beach","data":[{"offset":28,"mask":96}]},
+      {"name":"Cozy Woods","data":[{"offset":28,"mask":128}]},
+      {"name":"Ghost House","data":[{"offset":25,"mask":128}]},
+      {"name":"Grim Green Forest","data":[{"offset":28,"mask":24}]},
+      {"name":"Koopa Hideout","data":[{"offset":16,"mask":66}]}]}],
+  "collectedStarIcon":
+    "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IArs4c6QAAAYNQTFRFR3BM/v9//v+MLyoB9NdNOjIFMSYAPzQHLycC38lQWE4VfG41zao0JBsA/vNy5M5I/v6a//6Y+PFfS0EIX0UAQjoAOCkA+NZE/v96NC0BUUQCupwpRTYBnog8xaQzhXk317gs3781LicByaY3JxkATD4C/t5kh4A9/v6TTj8C/udm//+SaGIstZ1CcmcxOikARC4BTjgAjYY879dUoY9B/uY5QTEAUD8C/+1DbVYDdVoBXUYEdl8G/vx/99kx++A0//Zc/vFL/epB7dQzVkEBLyYBaE0DaFEDmYk9ZE0B7N9bupsN69c9SjYD/v+Okn8apIoN//+/spcS/v2q9Ns16t9uro4H5skk//6z378a//dnzKwT//RT9uhTJBkAf2YG/v/W/v+htaZJ9uFh0rUkWU4SxrFU/vtx//yW+vRveWgn+/CByLlP1c51wKMb+uND48434tE8CAYApZ057eBBr50qg3Eo0bgvmIMO8/Kz7u+P5d+E8dIsKSED9OVKzbw4MSsR2c9J1wAAADV0Uk5TAJUr1NT+aiaA+5Uq1E4j1Or1/PyAB39qatzcatVq+JXU1Pgj1U4V6oB/gNWAQNRATup/3Ooj80nqAAABa0lEQVR42o2SVVMCYRSGPwOWtUfs7m7dbnZZuofublABE+OnCyNwoYzjc3XmeS/OmXcO+A/L8/396tr0Qj8/qocd1sE+wXqmGHMM9An0biYei//2Z5l8iPf5jn/60xs3LwiMY+por2O2x8Y2NicnYSMjhPiQr5i8Hm4zAR4ScDKfzQb46dq7UDMGAgyTcz2/uEFEIT+lWE6juf2s1xUfOI4g3oqNlsB4RIsaTEEWubs3i28NnPMHaZnALgC0s4Va7KZmKxBFbQNng05KR1xCAAClFkUxJ2dWi2LarKnoKMJweA7ajGtRrCRUxdYehC8XSGoXdFAV9EYc13Asggu51/IV6HKSKFURzmvy+Fkk4HIddD20D8NNr4mWKaIVMdapiV7hjym7TJG0hFkMHnO4V/6ILUrKJE2MtI6QpKjN2C0/TZA0qVuCZiFoEcUMOnu4E1gkTL0Cfc9DQwoF5exeq5pTgh5KlWrmr5f5Amj7UIVdhJOTAAAAAElFTkSuQmCC",
+  "missingStarIcon":
+    "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IArs4c6QAAAGxQTFRFR3BMBgYGZWVla2trUVFRAAAAUFBQAAAAAAAABwcHAAAAAwMDERERPj4+Pz8/bm5uKSkpFBQUcHBwb29vMTExMDAwbm5uZGRkAAAAcHBwa2trJCQkVlZWYWFhXFxcMDAwOzs7FRUVSUlJQkJC1VAHUgAAABd0Uk5TAGp1J9XX/IAn/U6V6tQc6nRA1ZXU1JWGlAuTAAAA60lEQVR42o2S2Y6EIBBFsRWE1t5mo4od/P9/nJKgk0ybTh8eCPfkFgmBvcP9dJx30RwamQtifyCmpBE/D0R2SDznPGltED/+549ZaK0Rb6drS67fX5fLMAhhqtBhqPRMxRJMRRO0IS2jPQMAm5zzuuF9KCkDsDMZZeNuwrLGcGaSK4BsRWgFFy3ls1yfonZcExGI8cGIOi1to4Ra5zTGWvDBBa/RlTvbRUzBuxLj4oJB3N9YzksRJeb1qsUZvPWbsClZaFjncRNTVjWbgKBW+GkCKlwyKXkt+T+hKK5wrsg0MY5jx3Y6Or76Mr+c1xs0xHaFcwAAAABJRU5ErkJggg=="
+}
